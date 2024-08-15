@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|c:\\users\\r\u0131dvan\\desktop\\carsys\\carsys\\rapor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:carsys\\rapor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABALAR.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:CARSYS\\ARABALAR.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|c:\\users\\r\u0131dvan\\desktop\\carsys\\carsys\\arabakirala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:carsys\\arabakirala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|c:\\users\\r\u0131dvan\\desktop\\carsys\\carsys\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:carsys\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:CARSYS\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\RAPOR.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:CARSYS\\RAPOR.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABALAR.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:CARSYS\\ARABALAR.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABAKIRALA.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:CARSYS\\ARABAKIRALA.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:CARSYS\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\AnaEkran.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144670CB-6396-488C-A76D-2E03A3B69E78}|CARSYS\\CARSYS.csproj|solutionrelative:CARSYS\\AnaEkran.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RAPOR.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\RAPOR.xaml.cs",
+              "RelativeDocumentMoniker": "CARSYS\\RAPOR.xaml.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\RAPOR.xaml.cs",
+              "RelativeToolTip": "CARSYS\\RAPOR.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:00:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ARABAKIRALA.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABAKIRALA.xaml.cs",
+              "RelativeDocumentMoniker": "CARSYS\\ARABAKIRALA.xaml.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABAKIRALA.xaml.cs",
+              "RelativeToolTip": "CARSYS\\ARABAKIRALA.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:59:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CARSYS\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CARSYS\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:58:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RAPOR.xaml",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\RAPOR.xaml",
+              "RelativeDocumentMoniker": "CARSYS\\RAPOR.xaml",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\RAPOR.xaml",
+              "RelativeToolTip": "CARSYS\\RAPOR.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T09:36:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CARSYS\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\MainWindow.xaml",
+              "RelativeToolTip": "CARSYS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T09:36:12.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ARABALAR.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABALAR.xaml.cs",
+              "RelativeDocumentMoniker": "CARSYS\\ARABALAR.xaml.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABALAR.xaml.cs",
+              "RelativeToolTip": "CARSYS\\ARABALAR.xaml.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAgwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:00:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ARABALAR.xaml",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABALAR.xaml",
+              "RelativeDocumentMoniker": "CARSYS\\ARABALAR.xaml",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABALAR.xaml",
+              "RelativeToolTip": "CARSYS\\ARABALAR.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T08:59:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ARABAKIRALA.xaml",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABAKIRALA.xaml",
+              "RelativeDocumentMoniker": "CARSYS\\ARABAKIRALA.xaml",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\ARABAKIRALA.xaml",
+              "RelativeToolTip": "CARSYS\\ARABAKIRALA.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T08:56:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\App.xaml",
+              "RelativeDocumentMoniker": "CARSYS\\App.xaml",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\App.xaml",
+              "RelativeToolTip": "CARSYS\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T08:56:00.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnaEkran.xaml",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\AnaEkran.xaml",
+              "RelativeDocumentMoniker": "CARSYS\\AnaEkran.xaml",
+              "ToolTip": "C:\\Users\\R\u0131dvan\\Desktop\\CARSYS\\CARSYS\\AnaEkran.xaml",
+              "RelativeToolTip": "CARSYS\\AnaEkran.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T08:54:00.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

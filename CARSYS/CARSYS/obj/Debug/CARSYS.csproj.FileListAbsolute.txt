@@ -1,0 +1,132 @@
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\CARSYS.exe.config
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\CARSYS.exe
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\CARSYS.pdb
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Mvvm.v22.1.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Core.v22.1.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Themes.Office2019Colorful.v22.1.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Mvvm.v22.1.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Core.v22.1.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\de\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\es\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.SuggestedBindingRedirects.cache
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\MainWindow.baml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\MainWindow.g.cs
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\App.g.cs
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS_MarkupCompile.cache
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.g.resources
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.Properties.Resources.resources
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.GenerateResource.cache
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.CopyComplete
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.exe
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.pdb
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\AnaEkran.g.cs
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\ARABAKIRALA.g.cs
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\ARABALAR.g.cs
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\RAPOR.g.cs
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS_MarkupCompile.lref
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Grid.v22.1.Core.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Grid.v22.1.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Grid.v22.1.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Grid.v22.1.Core.xml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\de\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\es\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\AnaEkran.baml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\ARABAKIRALA.baml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\ARABALAR.baml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\RAPOR.baml
+C:\Users\info\Desktop\Ertek Dashboard\CARSYS\CARSYS\obj\Debug\CARSYS.exe.licenses
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\CARSYS.exe.config
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\CARSYS.exe
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\CARSYS.pdb
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Mvvm.v22.1.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Core.v22.1.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Grid.v22.1.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Xpf.Grid.v22.1.Core.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\de\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\es\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\de\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\es\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.AssemblyReference.cache
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\MainWindow.baml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\AnaEkran.g.cs
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\ARABAKIRALA.g.cs
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\ARABALAR.g.cs
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\MainWindow.g.cs
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\RAPOR.g.cs
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\App.g.cs
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS_MarkupCompile.cache
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS_MarkupCompile.lref
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\AnaEkran.baml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\ARABAKIRALA.baml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\ARABALAR.baml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\RAPOR.baml
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.g.resources
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.Properties.Resources.resources
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.GenerateResource.cache
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.exe.licenses
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.CoreCompileInputs.cache
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.CopyComplete
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.exe
+C:\Users\kaan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.pdb
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.AssemblyReference.cache
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\MainWindow.baml
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\AnaEkran.g.cs
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\ARABAKIRALA.g.cs
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\ARABALAR.g.cs
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\MainWindow.g.cs
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\RAPOR.g.cs
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\App.g.cs
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS_MarkupCompile.cache
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS_MarkupCompile.lref
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\AnaEkran.baml
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\ARABAKIRALA.baml
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\ARABALAR.baml
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\RAPOR.baml
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.g.resources
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.Properties.Resources.resources
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.csproj.GenerateResource.cache
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.exe.licenses
+C:\Users\Rıdvan\Desktop\CARSYS\CARSYS\obj\Debug\CARSYS.pdb

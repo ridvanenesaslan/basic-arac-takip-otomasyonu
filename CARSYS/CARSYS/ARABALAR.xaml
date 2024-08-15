@@ -1,0 +1,26 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CARSYS"
+        xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" x:Class="CARSYS.ARABALAR"
+        mc:Ignorable="d"
+        Title="ARABALAR" Height="450" Width="800">
+    <Grid>
+        <Label Content="ARABA MODEL :" HorizontalAlignment="Left" Margin="41,95,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Tahoma"/>
+        <TextBox x:Name="UrunAdiTxt" HorizontalAlignment="Left" Margin="152,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204" Height="20" TextAlignment="Center" FontWeight="Bold" RenderTransformOrigin="0.394,-1.518"/>
+        <Label Content="KIRALAMA FIYAT :" HorizontalAlignment="Left" Margin="393,96,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Tahoma"/>
+        <TextBox x:Name="UrunFiyatTxt" HorizontalAlignment="Left" Margin="537,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204" Height="20" TextAlignment="Center" FontWeight="Bold" RenderTransformOrigin="0.394,-1.518"/>
+        <Button x:Name="EkleBtn" Content="EKLE" HorizontalAlignment="Left" Margin="127,140,0,0" VerticalAlignment="Top" Height="36" Width="174" Background="#FF50C027" FontWeight="Bold" Click="EkleBtn_Click"/>
+        <Button x:Name="LısteleBtn" Content="LISTEYI YENILE" HorizontalAlignment="Left" Margin="328,181,0,0" VerticalAlignment="Top" Height="30" Width="130" Background="#FF3DDCFF" FontWeight="Bold" Click="EkleBtn_Copy_Click"/>
+        <Button x:Name="GuncelleBtn" Content="GUNCELLE" HorizontalAlignment="Left" Margin="306,140,0,0" VerticalAlignment="Top" Height="36" Width="174" Background="#FFE8EB17" FontWeight="Bold" Click="GuncelleBtn_Click"/>
+        <dxg:GridControl x:Name="gridControl" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" Margin="-2,246,0,0" SelectionMode="Row">
+            <dxg:GridControl.View>
+                <dxg:TableView AllowEditing="False" HorizontalAlignment="Left" Width="794"/>
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+        <Button x:Name="SilBtn" Content="SİL" HorizontalAlignment="Left" Margin="485,140,0,0" VerticalAlignment="Top" Height="36" Width="174" Background="#FFFF6E6E" FontWeight="Bold" Click="SilBtn_Click"/>
+
+    </Grid>
+</Window>
